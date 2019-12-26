@@ -1,4 +1,4 @@
-#WAVE 
+# WAVE 
 
 Git repository for group #5 (Calvin and Josh), Spring 2019
 CSCI 237 Final Project
